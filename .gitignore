@@ -1,0 +1,17 @@
+# Compilación
+build/
+build-*/
+cmake-build-*/
+CMakeLists.txt.user*
+*.o
+*.obj
+*.exe
+*.app
+
+# Base de datos local (se crea al ejecutar)
+*.db
+
+# Editores
+.vscode/
+.idea/
+.DS_Store
