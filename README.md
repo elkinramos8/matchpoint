@@ -21,7 +21,7 @@
 | **Curso** | Tecnología de Objetos |
 | **Docente** | Mg. Maribel Molina Barriga |
 | **Grupo** | Grupo 1 |
-| **Entregables** | [Informe](entregables/Informe_MatchPoint_Grupo1.docx) · [Artículo](entregables/Articulo_MatchPoint_Grupo1.docx) · [Diapositivas](entregables/Diapositivas_MatchPoint_Grupo1.pdf) ([.pptx](entregables/Diapositivas_MatchPoint_Grupo1.pptx)) |
+| **Entregables** | [Informe](entregables/Informe_MatchPoint_Grupo1.docx) · [Artículo](entregables/Articulo_MatchPoint_Grupo1.docx) · [Diapositivas (Canva)](https://www.canva.com/d/ij33MGrFf9P5Oek) |
 | **Probar rápido** | [10. Compilación y ejecución](#10-compilación-y-ejecución) · [casos de prueba](docs/CASOS_DE_PRUEBA.md) |
 
 ---
@@ -773,7 +773,7 @@ matchpoint/
 │   ├── vista/                      ventanas Qt
 │   └── controlador/                conexión vista ↔ modelo
 ├── tests/pruebas_modelo.cpp        pruebas unitarias (24)
-├── entregables/                    informe, artículo y diapositivas (PDF, Word y PowerPoint)
+├── entregables/                    informe y artículo (Word); las diapositivas están en Canva
 └── docs/
     ├── CASOS_DE_PRUEBA.md          pruebas de aceptación (50 casos)
     └── img/                        capturas
