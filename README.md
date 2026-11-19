@@ -21,7 +21,7 @@
 | **Curso** | Tecnología de Objetos |
 | **Docente** | Mg. Maribel Molina Barriga |
 | **Grupo** | Grupo 1 |
-| **Entregables** | [Informe](entregables/Informe_MatchPoint_Grupo1.pdf) · [Artículo](entregables/Articulo_MatchPoint_Grupo1.pdf) · [Diapositivas](entregables/Diapositivas_MatchPoint_Grupo1.pdf) ([.pptx](entregables/Diapositivas_MatchPoint_Grupo1.pptx)) |
+| **Entregables** | [Informe](entregables/Informe_MatchPoint_Grupo1.docx) · [Artículo](entregables/Articulo_MatchPoint_Grupo1.docx) · [Diapositivas](entregables/Diapositivas_MatchPoint_Grupo1.pdf) ([.pptx](entregables/Diapositivas_MatchPoint_Grupo1.pptx)) |
 | **Probar rápido** | [10. Compilación y ejecución](#10-compilación-y-ejecución) · [casos de prueba](docs/CASOS_DE_PRUEBA.md) |
 
 ---
